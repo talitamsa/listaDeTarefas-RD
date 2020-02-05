@@ -1,0 +1,36 @@
+#titulo{
+    background-color: darkslateblue;
+    padding: 16px;
+    color: lightslategrey;
+    font-weight: 700;
+}
+#afazer{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
+.card-tarefa{
+    background-color: salmon;
+    width: 300px;
+    padding: 30px;
+    border-style: dotted;
+    border-radius: 10px;
+    border-width: 10px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 13px 13px 15px -7px;
+}
+footer{
+    position: fixed;
+    width: 100vw;
+    background-color: darkslateblue;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    bottom: 0px;
+}
+#tarefa-digitada{
+    width: 30%;
+    margin-right: 20px;
+}
