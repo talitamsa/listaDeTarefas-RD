@@ -1,5 +1,5 @@
 #titulo{
-    background-color: darkslateblue;
+    background-color: black;
     padding: 16px;
     color: lightslategrey;
     font-weight: 700;
@@ -20,11 +20,12 @@
     display: flex;
     justify-content: space-between;
     box-shadow: 13px 13px 15px -7px;
+    margin: 0px 0px 65px 0px;
 }
 footer{
     position: fixed;
     width: 100vw;
-    background-color: darkslateblue;
+    background-color: rgb(0, 0, 0);
     padding: 16px;
     display: flex;
     justify-content: center;
