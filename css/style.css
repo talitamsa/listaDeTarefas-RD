@@ -3,6 +3,7 @@
     padding: 16px;
     color: lightslategrey;
     font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
 }
 #afazer{
     display: flex;
@@ -34,4 +35,5 @@ footer{
 #tarefa-digitada{
     width: 30%;
     margin-right: 20px;
+    border-radius: 10px;
 }
