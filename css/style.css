@@ -3,7 +3,7 @@
     padding: 16px;
     color: lightslategrey;
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Glory', sans-serif;
 }
 #afazer{
     display: flex;
@@ -11,7 +11,7 @@
     font-size: 2em;
 }
 .card-tarefa{
-    background-color: salmon;
+    background-color: rgb(192, 157, 238);
     width: 300px;
     padding: 30px;
     border-style: dotted;
